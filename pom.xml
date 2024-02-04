@@ -76,6 +76,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
+					<imageName>recursiveminds/blogapp:latest</imageName>
 				</configuration>
 			</plugin>
 		</plugins>
